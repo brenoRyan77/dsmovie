@@ -4,6 +4,7 @@ import com.devsuperior.dsmovie.entities.Movie;
 
 public class MovieDTO {
 
+	//comentario
 	private Long id;
 	private String title;
 	private Double score;
