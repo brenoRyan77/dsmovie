@@ -11,9 +11,9 @@ Esse é um projeto desenvolvido e ministrado pela DevSuperior com o professor N�
 - Grid de filmes vindo do banco de dados
 
 
-# Criação das entidades e o seed do banco de dados
-<h2>Modelo conceitual 
-![Image](https://github.com/brenoRyan77/imds/blob/main/dsmovie-dominio.png "Modelo conceitual")
+### Criação das entidades e o seed do banco de dados
+### Modelo conceitual 
+  ![Image](https://github.com/brenoRyan77/imds/blob/main/dsmovie-dominio.png "Modelo conceitual")
   
  ###  Busca de filmes 
  ### Padrão de camadas adotado 
@@ -40,5 +40,5 @@ Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 - <a href="https://nextjs.org/" target="_blank">Bootstrap</a> <br>
 - <a href="https://nextjs.org/" target="_blank">SQL</a> <br>         
           
- ###Link da aplicação
- - [Link da aplicação]([https://brenoryan77dsmovie.netlify.app/)
+ ### Link da aplicação
+ - ([https://brenoryan77dsmovie.netlify.app/)
