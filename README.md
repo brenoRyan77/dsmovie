@@ -1,6 +1,6 @@
 
 # 👷🏻 O Projeto
-Esse é um projeto desenvolvido e ministrado pela DevSuperior com o professor Nélio Alves, a partir do bootcamp Semana Spring React. O programa consiste em uma API REST com banco de dados ralacional.
+Esse é um projeto desenvolvido e ministrado pela DevSuperior com o professor Nélio Alves, a partir do bootcamp Semana Spring React. O programa consiste em uma API REST com banco de dados ralacional.<br>
 ![Banner Readme Ignews](https://github.com/brenoRyan77/imds/blob/main/IMG/image.png)
 
 # 🤳🏻 Funcionalidades gerais
@@ -41,4 +41,4 @@ Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 - <a href="https://nextjs.org/" target="_blank">SQL</a> <br>         
           
  ### Link da aplicação
- - ([https://brenoryan77dsmovie.netlify.app/)
+ - https://brenoryan77dsmovie.netlify.app/
